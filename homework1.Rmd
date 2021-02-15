@@ -66,6 +66,9 @@ Write your narrative here
 
 
 `4.
+>seattlepets %>%
+group_by(species) %>% count(animal_name, sort = TRUE) %>% slice_max(n, n = 5)
+%>% arrange(species, n)
 
 (10 points)
 
@@ -75,7 +78,7 @@ Write your narrative here
 
 `5.  What names are more common for cats than dogs? The ones above the line or the ones below the line?
 
-Answer here
+Oliver and lily
 
 (4 points)
 

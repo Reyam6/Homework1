@@ -43,14 +43,16 @@ here. &gt;seattlepets %&gt;% count(animal\_name, sort = TRUE)
 
 Write your narrative here
 
-\`4.
+\`4. &gt;seattlepets %&gt;% group\_by(species) %&gt;%
+count(animal\_name, sort = TRUE) %&gt;% slice\_max(n, n = 5) %&gt;%
+arrange(species, n)
 
 (10 points)
 
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
+Oliver and lily
 
 (4 points)
 
