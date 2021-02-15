@@ -32,7 +32,12 @@ library(ggrepel)
 > variables:7
 
 \`3. Copy the code provided in the homework documentation and paste it
-here.
+here. &gt;seattlepets %&gt;% count(animal\_name, sort = TRUE)
+
+> seattlepets %&gt;% group\_by(species) %&gt;% count(animal\_name, sort
+> = TRUE)
+
+> seattlepets %&gt;% count(species, sort = TRUE)
 
 (4 points)
 

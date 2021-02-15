@@ -46,6 +46,15 @@ library(ggrepel)
 
 
 `3. Copy the code provided in the homework documentation and paste it here. 
+>seattlepets %>%
+count(animal_name, sort = TRUE)
+
+>seattlepets %>%
+group_by(species) %>%
+count(animal_name, sort = TRUE)
+
+>seattlepets %>%
+count(species, sort = TRUE)
 
 (4 points)
 
