@@ -25,11 +25,11 @@ library(ggrepel)
 
 > 52.519
 
-\`2.
+\`2.how many variables do we have for each pet?
 
 (4 points)
 
-Write your narrative below
+> variables:7
 
 \`3. Copy the code provided in the homework documentation and paste it
 here.
