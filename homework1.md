@@ -19,11 +19,11 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.
+\`1.how many pets are included in this dataset?
 
 (4 points)
 
-Write your narrative here
+> 52.519
 
 \`2.
 
