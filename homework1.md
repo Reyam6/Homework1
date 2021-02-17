@@ -19,11 +19,11 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.how many pets are included in this dataset?
+\`1.how many pets are included in this dataset ?
 
 (4 points)
 
-> 52.519
+> 1.  519
 
 \`2.how many variables do we have for each pet?
 

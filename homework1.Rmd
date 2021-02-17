@@ -24,14 +24,14 @@ library(ggrepel)
 
 ##Exercises
 
-`1.how many pets are included in this dataset?
+`1.how many pets are included in this dataset ?
 
 
 (4 points)
 ```{r}
 
 ```
->52.519
+>52. 519
 
 
 
