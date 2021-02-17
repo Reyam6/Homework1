@@ -45,7 +45,7 @@ library(ggrepel)
 >variables: 7
 
 
-`3. Copy the code provided in the homework documentation and paste it here. 
+`3. Copy the code provided in the homework documentation and paste it here . 
 
 # A tibble: 13,930 x 2
    animal_name     n
@@ -60,7 +60,7 @@ library(ggrepel)
  8 Molly         240
  9 Jack          232
 10 Lily          232
-# … with 13,920 more rows
+# .. with 13,920 more rows
 
 # A tibble: 16,823 x 3
 # Groups:   species [4]
