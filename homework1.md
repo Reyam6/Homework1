@@ -65,7 +65,7 @@ Dog Luna 244 10 Dog Daisy 221 \# … with 43 more rows
 (10 points)
 
 \`5. What names are more common for cats than dogs? The ones above the
-line or the ones below the line?
+line or the ones below the line ?
 
 Oliver and lily
 
