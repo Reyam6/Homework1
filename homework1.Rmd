@@ -95,7 +95,7 @@ Write your narrative here
 
 
 
-`4.
+`4..
 # A tibble: 53 x 3
 # Groups:   species [4]
    species animal_name     n

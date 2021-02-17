@@ -57,10 +57,10 @@ species n <chr> <int> 1 Dog 35181 2 Cat 17294 3 Goat 38 4 Pig 6
 
 Write your narrative here
 
-\`4. \# A tibble: 53 x 3 \# Groups: species \[4\] species animal\_name n
-<chr> <chr> <int> 1 Cat NA 406 2 Cat Luna 111 3 Cat Lucy 102 4 Cat Lily
-86 5 Cat Max 83 6 Dog Lucy 337 7 Dog Charlie 306 8 Dog Bella 249 9 Dog
-Luna 244 10 Dog Daisy 221 \# … with 43 more rows
+\`4.. \# A tibble: 53 x 3 \# Groups: species \[4\] species animal\_name
+n <chr> <chr> <int> 1 Cat NA 406 2 Cat Luna 111 3 Cat Lucy 102 4 Cat
+Lily 86 5 Cat Max 83 6 Dog Lucy 337 7 Dog Charlie 306 8 Dog Bella 249 9
+Dog Luna 244 10 Dog Daisy 221 \# … with 43 more rows
 
 (10 points)
 
